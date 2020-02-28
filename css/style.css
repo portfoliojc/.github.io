@@ -371,7 +371,7 @@ transition: all .3s;
 }
 
 .bordersection {
-    background: #eee url(images/bordersection.png) no-repeat center -1px;
+    background: url(https://portfoliojc.github.io/images/bordersection.png) no-repeat center -1px;
     padding: 80px;
 }
 
