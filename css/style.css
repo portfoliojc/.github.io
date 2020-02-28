@@ -370,6 +370,11 @@ transition: all .3s;
     z-index:2;
 }
 
+.bordersection {
+    background: #eee url(images/bordersection.png) no-repeat center -1px;
+    padding: 80px;
+}
+
 /* footer */
 
 footer {
